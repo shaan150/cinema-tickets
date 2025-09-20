@@ -5,6 +5,8 @@ I used TDD to build this solution. Started with the simplest test case, made it 
 
 ## Running the Tests
 
+I've added in a github action to see that all tests are successful, so you don't need to run them.
+
 Requires Java 21 and Maven.
 
 ```bash
